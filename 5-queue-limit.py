@@ -1,112 +1,112 @@
-# PS D:\จารแดง\class8-asyncio> & C:/Users/Mik/AppData/Local/Microsoft/WindowsApps/python3.10.exe d:/??????/class8-asyncio/5-queue-limit.py
-# Wed Aug 23 14:39:48 2023 Consumer: Running
-# Wed Aug 23 14:39:48 2023 Producer: Running
-# Wed Aug 23 14:39:48 2023 Producer: Running
-# Wed Aug 23 14:39:48 2023 Producer: Running
-# Wed Aug 23 14:39:48 2023 Producer: Running
-# Wed Aug 23 14:39:48 2023 Producer: Running
-# Wed Aug 23 14:39:48 2023 >got 0.47808056879508765
-# Wed Aug 23 14:39:49 2023 >got 0.666496195977806
-# Wed Aug 23 14:39:49 2023 >got 0.752587617819378
-# Wed Aug 23 14:39:50 2023 >got 0.2021197988821547
-# Wed Aug 23 14:39:50 2023 >got 0.8537351506845086
-# Wed Aug 23 14:39:51 2023 >got 0.8061375760396131
-# Wed Aug 23 14:39:52 2023 >got 0.5443900462600254
-# Wed Aug 23 14:39:52 2023 >got 0.470284011003111
-# Wed Aug 23 14:39:53 2023 >got 0.92331267131492
-# Wed Aug 23 14:39:54 2023 >got 0.9016035137217348
-# Wed Aug 23 14:39:55 2023 >got 0.5128880895804852
-# Wed Aug 23 14:39:55 2023 >got 0.40502021200578653
-# Wed Aug 23 14:39:56 2023 >got 0.9218027291454741
-# Wed Aug 23 14:39:57 2023 >got 0.2033995012356412
-# Wed Aug 23 14:39:57 2023 >got 0.505272753668842
-# Wed Aug 23 14:39:57 2023 >got 0.33252184040261135
-# Wed Aug 23 14:39:58 2023 >got 0.37543512378059885
-# Wed Aug 23 14:39:58 2023 >got 0.7065587436181164
-# Wed Aug 23 14:39:59 2023 >got 0.04528735496507397
-# Wed Aug 23 14:39:59 2023 >got 0.5436343661209583
-# Wed Aug 23 14:39:59 2023 >got 0.19846854234676325
-# Wed Aug 23 14:40:00 2023 >got 0.5544517319194744
-# Wed Aug 23 14:40:00 2023 >got 0.7645791302940104
-# Wed Aug 23 14:40:01 2023 >got 0.8470663930755997
-# Wed Aug 23 14:40:02 2023 >got 0.574827326695249
-# Wed Aug 23 14:40:02 2023 >got 0.30344847596922575
-# Wed Aug 23 14:40:03 2023 >got 0.824512164592333
-# Wed Aug 23 14:40:03 2023 >got 0.4118627679350939
-# Wed Aug 23 14:40:04 2023 >got 0.6997363884274747
-# Wed Aug 23 14:40:05 2023 >got 0.844442066618961
-# Wed Aug 23 14:40:05 2023 >got 0.2499079483249863
-# Wed Aug 23 14:40:06 2023 >got 0.4741547433402553
-# Wed Aug 23 14:40:06 2023 >got 0.0025627020415636137
-# Wed Aug 23 14:40:06 2023 >got 0.7585870099150327
-# Wed Aug 23 14:40:07 2023 >got 0.29802586076358717
-# Wed Aug 23 14:40:07 2023 >got 0.8426070267756164
-# Wed Aug 23 14:40:08 2023 >got 0.6043211646410819
-# Wed Aug 23 14:40:09 2023 >got 0.4963225154562818
-# Wed Aug 23 14:40:09 2023 >got 0.35385511642752354
-# Wed Aug 23 14:40:10 2023 >got 0.045305579630767645
-# Wed Aug 23 14:40:10 2023 Producer: Done
-# Wed Aug 23 14:40:10 2023 >got 0.736060709615076
-# Wed Aug 23 14:40:10 2023 >got 0.38758601005509663
-# Wed Aug 23 14:40:10 2023 Producer: Done
-# Wed Aug 23 14:40:11 2023 >got 0.5482559648181068
-# Wed Aug 23 14:40:11 2023 Producer: Done
-# Wed Aug 23 14:40:11 2023 >got 0.08833895533481739
-# Wed Aug 23 14:40:11 2023 >got 0.10461425730938867
-# Wed Aug 23 14:40:12 2023 >got 0.5232622494489289
-# Wed Aug 23 14:40:12 2023 Producer: Done
-# Wed Aug 23 14:40:12 2023 >got 0.11348986197393773
-# Wed Aug 23 14:40:12 2023 >got 0.20482555857956863
-# Wed Aug 23 14:40:12 2023 >got 0.6143530214341184
-# Wed Aug 23 14:40:13 2023 Producer: Done
-# Wed Aug 23 14:40:13 2023 >got 0.8262853853892554
+# Wed Aug 23 15:13:25 2023 Consumer: Running
+# Wed Aug 23 15:13:25 2023 Producer: Running
+# Wed Aug 23 15:13:25 2023 Producer: Running
+# Wed Aug 23 15:13:25 2023 Producer: Running
+# Wed Aug 23 15:13:25 2023 Producer: Running
+# Wed Aug 23 15:13:25 2023 Producer: Running
+# Wed Aug 23 15:13:25 2023 > got 0.7529183165523943
+# Wed Aug 23 15:13:26 2023 > got 0.4290354675427862
+# Wed Aug 23 15:13:27 2023 > got 0.9254700019875749
+# Wed Aug 23 15:13:28 2023 > got 0.6420604759758715
+# Wed Aug 23 15:13:28 2023 > got 0.8889281904914739
+# Wed Aug 23 15:13:29 2023 > got 0.4217705530040282
+# Wed Aug 23 15:13:30 2023 > got 0.2567719410947926
+# Wed Aug 23 15:13:30 2023 > got 0.38754793609204363
+# Wed Aug 23 15:13:30 2023 > got 0.7489006323078319
+# Wed Aug 23 15:13:31 2023 > got 0.10447778569588717
+# Wed Aug 23 15:13:31 2023 > got 0.8192200698131186
+# Wed Aug 23 15:13:32 2023 > got 0.34039176383764025
+# Wed Aug 23 15:13:32 2023 > got 0.9837695675103615
+# Wed Aug 23 15:13:33 2023 > got 0.846189910825048
+# Wed Aug 23 15:13:34 2023 > got 0.39329130244459864
+# Wed Aug 23 15:13:35 2023 > got 0.28680792781661213
+# Wed Aug 23 15:13:35 2023 > got 0.028036372451095692
+# Wed Aug 23 15:13:35 2023 > got 0.0746636237698185
+# Wed Aug 23 15:13:35 2023 > got 0.7219687368654295
+# Wed Aug 23 15:13:36 2023 > got 0.19221894363007586
+# Wed Aug 23 15:13:36 2023 > got 0.34440379906219987
+# Wed Aug 23 15:13:36 2023 > got 0.8550280649758994
+# Wed Aug 23 15:13:37 2023 > got 0.6173631838396029
+# Wed Aug 23 15:13:38 2023 > got 0.9760624221363784
+# Wed Aug 23 15:13:39 2023 > got 0.803696593208714
+# Wed Aug 23 15:13:40 2023 > got 0.16982550901210836
+# Wed Aug 23 15:13:40 2023 > got 0.5140271403942018
+# Wed Aug 23 15:13:40 2023 > got 0.02556118078475378
+# Wed Aug 23 15:13:40 2023 > got 0.07975963206675352
+# Wed Aug 23 15:13:40 2023 > got 0.7396738704054681
+# Wed Aug 23 15:13:41 2023 > got 0.6851323642907611
+# Wed Aug 23 15:13:42 2023 > got 0.2924520962307092
+# Wed Aug 23 15:13:42 2023 > got 0.8674652291586448
+# Wed Aug 23 15:13:43 2023 > got 0.903631790252753
+# Wed Aug 23 15:13:44 2023 > got 0.11887593601035018
+# Wed Aug 23 15:13:44 2023 > got 0.5901131533878173
+# Wed Aug 23 15:13:45 2023 > got 0.12084625489739709
+# Wed Aug 23 15:13:45 2023 Producer 1: Done
+# Wed Aug 23 15:13:45 2023 > got 0.6218130894969806
+# Wed Aug 23 15:13:45 2023 > got 0.024073169917304793
+# Wed Aug 23 15:13:45 2023 > got 0.320703090658387
+# Wed Aug 23 15:13:45 2023 Producer 2: Done
+# Wed Aug 23 15:13:46 2023 > got 0.0008636285351431017
+# Wed Aug 23 15:13:46 2023 > got 0.8445994656269187
+# Wed Aug 23 15:13:47 2023 > got 0.30950333798564933
+# Wed Aug 23 15:13:47 2023 > got 0.5392195031600131
+# Wed Aug 23 15:13:47 2023 > got 0.8322115600089472
+# Wed Aug 23 15:13:48 2023 > got 0.9801209857116906
+# Wed Aug 23 15:13:48 2023 Producer 3: Done
+# Wed Aug 23 15:13:49 2023 > got 0.38651869259613647
+# Wed Aug 23 15:13:49 2023 Producer 4: Done
+# Wed Aug 23 15:13:50 2023 > got 0.1624729861646096
+# Wed Aug 23 15:13:50 2023 Producer 5: Done
+# Wed Aug 23 15:13:50 2023 > got 0.47812488553004506
+# Wed Aug 23 15:13:50 2023 > got 0.9921333556973604
 
 from random import random
 import asyncio
 import time
 
 # coroutine to generate work
-async def producer(queue):
+async def producer(queue, id):
     print(f'{time.ctime()} Producer: Running')
-    # generate a value
+    # generate work
     for i in range(10):
         # generate a value
         value = random()
         # block to simulate work
-        await asyncio.sleep(value)
-        # add to the queue
+        await asyncio.sleep((id + 1)*0.1)
+        # add to the queue 
         await queue.put(value)
-    print(f'{time.ctime()} Producer: Done')
+    print(f'{time.ctime()} Producer {id+1}: Done') 
 
 # coroutie to consume work
 async def consumer(queue):
     print(f'{time.ctime()} Consumer: Running')
-    # consume work
+    # consume work 
     while True:
-        # retrieve the get() awaitable
+        # get a unit of work
         item = await queue.get()
         # report
-        print(f'{time.ctime()} >got {item}')
+        print(f'{time.ctime()} > got {item}')
         # block while processing
-        if item :
+        if item:
             await asyncio.sleep(item)
-        # mark as completed
+        # mark the task as done 
         queue.task_done()
-    # all done
+    # all done 
     print(f'{time.ctime()} Consumer: Done')
 
-# entry point coroutine
+#entry point coroutine
 async def main():
-    # create the shared queue
+    # create a shared queue 
     queue = asyncio.Queue(2)
-    # start the consumer
+    # start consumer 
     _ = asyncio.create_task(consumer(queue))
     # create many producers
-    producers = [producer(queue) for _ in range(5)]
+    producers = [producer(queue, i) for i in range(5)]
     # run and wait for the producers to finish
     await asyncio.gather(*producers)
-    # wait for all items to be processed
+    # run the producer and consumer 
     await queue.join()
 
-# start the asyncio program
+
+#start the asyncio program
 asyncio.run(main())
