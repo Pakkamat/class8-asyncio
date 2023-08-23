@@ -1,15 +1,3 @@
-# Wed Aug 23 14:36:39 2023 Consumer: Running
-# Wed Aug 23 14:36:39 2023 Producer: Running
-# Wed Aug 23 14:36:39 2023 >got 0.26799675878506013
-# Wed Aug 23 14:36:40 2023 >got 0.4992998123904998
-# Wed Aug 23 14:36:40 2023 >got 0.5991331746794196
-# Wed Aug 23 14:36:41 2023 >got 0.5397072735156165
-# Wed Aug 23 14:36:42 2023 >got 0.29987709953599473
-# Wed Aug 23 14:36:42 2023 >got 0.9783873562514369
-# Wed Aug 23 14:36:43 2023 >got 0.7773838189480786
-# Wed Aug 23 14:36:44 2023 Producer: Done
-# Wed Aug 23 14:36:44 2023 >got 0.4800872380805945
-# Wed Aug 23 14:36:44 2023 >got 0.03812108202045206
 # PS D:\จารแดง\class8-asyncio> & C:/Users/Mik/AppData/Local/Microsoft/WindowsApps/python3.10.exe d:/??????/class8-asyncio/5-queue-limit.py
 # Wed Aug 23 14:39:48 2023 Consumer: Running
 # Wed Aug 23 14:39:48 2023 Producer: Running
